@@ -1,0 +1,1 @@
+- learning rate を小さくし過ぎると local minima にハマる。逆に大きすぎると、最適解付近で大きく振動して最適化されない。learning rateを少しづつ小さくする必要あり？→たぶんRestricted Bolzman Machine

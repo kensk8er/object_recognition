@@ -1,0 +1,108 @@
+[kensk8er DeepLearningTutorials (master)]$ python kensk8er/convolutional_mlp_gray.py 
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+... loading data
+... building the model
+... training
+training @ iter =  0
+epoch 1, minibatch 80/80, validation error 74.270000 %
+     epoch 1, minibatch 80/80, test error of best model 74.570000 %
+training @ iter =  100
+epoch 2, minibatch 80/80, validation error 69.420000 %
+     epoch 2, minibatch 80/80, test error of best model 69.470000 %
+training @ iter =  200
+epoch 3, minibatch 80/80, validation error 65.060000 %
+     epoch 3, minibatch 80/80, test error of best model 64.970000 %
+training @ iter =  300
+epoch 4, minibatch 80/80, validation error 61.700000 %
+     epoch 4, minibatch 80/80, test error of best model 61.990000 %
+epoch 5, minibatch 80/80, validation error 58.780000 %
+     epoch 5, minibatch 80/80, test error of best model 59.670000 %
+training @ iter =  400
+epoch 6, minibatch 80/80, validation error 56.780000 %
+     epoch 6, minibatch 80/80, test error of best model 57.330000 %
+training @ iter =  500
+epoch 7, minibatch 80/80, validation error 55.470000 %
+     epoch 7, minibatch 80/80, test error of best model 55.970000 %
+training @ iter =  600
+epoch 8, minibatch 80/80, validation error 53.800000 %
+     epoch 8, minibatch 80/80, test error of best model 54.590000 %
+training @ iter =  700
+epoch 9, minibatch 80/80, validation error 54.120000 %
+epoch 10, minibatch 80/80, validation error 53.610000 %
+     epoch 10, minibatch 80/80, test error of best model 54.720000 %
+training @ iter =  800
+epoch 11, minibatch 80/80, validation error 52.170000 %
+     epoch 11, minibatch 80/80, test error of best model 53.250000 %
+training @ iter =  900
+epoch 12, minibatch 80/80, validation error 50.280000 %
+     epoch 12, minibatch 80/80, test error of best model 50.810000 %
+training @ iter =  1000
+epoch 13, minibatch 80/80, validation error 49.390000 %
+     epoch 13, minibatch 80/80, test error of best model 50.140000 %
+training @ iter =  1100
+epoch 14, minibatch 80/80, validation error 49.080000 %
+     epoch 14, minibatch 80/80, test error of best model 50.060000 %
+epoch 15, minibatch 80/80, validation error 48.630000 %
+     epoch 15, minibatch 80/80, test error of best model 49.920000 %
+training @ iter =  1200
+epoch 16, minibatch 80/80, validation error 47.770000 %
+     epoch 16, minibatch 80/80, test error of best model 48.720000 %
+training @ iter =  1300
+epoch 17, minibatch 80/80, validation error 46.940000 %
+     epoch 17, minibatch 80/80, test error of best model 48.060000 %
+training @ iter =  1400
+epoch 18, minibatch 80/80, validation error 47.260000 %
+training @ iter =  1500
+epoch 19, minibatch 80/80, validation error 46.200000 %
+     epoch 19, minibatch 80/80, test error of best model 47.210000 %
+epoch 20, minibatch 80/80, validation error 44.930000 %
+     epoch 20, minibatch 80/80, test error of best model 45.850000 %
+training @ iter =  1600
+epoch 21, minibatch 80/80, validation error 45.100000 %
+training @ iter =  1700
+epoch 22, minibatch 80/80, validation error 45.060000 %
+training @ iter =  1800
+epoch 23, minibatch 80/80, validation error 43.540000 %
+     epoch 23, minibatch 80/80, test error of best model 44.460000 %
+training @ iter =  1900
+epoch 24, minibatch 80/80, validation error 43.520000 %
+     epoch 24, minibatch 80/80, test error of best model 43.690000 %
+epoch 25, minibatch 80/80, validation error 43.420000 %
+     epoch 25, minibatch 80/80, test error of best model 43.770000 %
+training @ iter =  2000
+epoch 26, minibatch 80/80, validation error 42.270000 %
+     epoch 26, minibatch 80/80, test error of best model 42.430000 %
+training @ iter =  2100
+epoch 27, minibatch 80/80, validation error 42.040000 %
+     epoch 27, minibatch 80/80, test error of best model 41.650000 %
+training @ iter =  2200
+epoch 28, minibatch 80/80, validation error 41.840000 %
+     epoch 28, minibatch 80/80, test error of best model 41.770000 %
+training @ iter =  2300
+epoch 29, minibatch 80/80, validation error 41.630000 %
+     epoch 29, minibatch 80/80, test error of best model 41.840000 %
+epoch 30, minibatch 80/80, validation error 41.430000 %
+     epoch 30, minibatch 80/80, test error of best model 41.240000 %
+training @ iter =  2400
+epoch 31, minibatch 80/80, validation error 41.020000 %
+     epoch 31, minibatch 80/80, test error of best model 41.070000 %
+training @ iter =  2500
+epoch 32, minibatch 80/80, validation error 41.390000 %
+training @ iter =  2600
+epoch 33, minibatch 80/80, validation error 41.230000 %
+training @ iter =  2700
+epoch 34, minibatch 80/80, validation error 41.130000 %
+epoch 35, minibatch 80/80, validation error 40.060000 %
+     epoch 35, minibatch 80/80, test error of best model 40.630000 %
+training @ iter =  2800
+epoch 36, minibatch 80/80, validation error 40.640000 %
+training @ iter =  2900
+epoch 37, minibatch 80/80, validation error 40.430000 %
+training @ iter =  3000
+epoch 38, minibatch 80/80, validation error 40.150000 %
+training @ iter =  3100
+epoch 39, minibatch 80/80, validation error 40.220000 %
+epoch 40, minibatch 80/80, validation error 40.250000 %
+training @ iter =  3200
+epoch 41, minibatch 80/80, validation error 40.280000 %
+training @ iter =  3300
